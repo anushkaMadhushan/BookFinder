@@ -72,7 +72,6 @@
 ## **Contact**
 For any questions or feedback, feel free to reach out:
 - **Name**: Anushka Madhushan
-- **Email**: 
 - **GitHub**: [Your GitHub Profile](https://github.com/anushkaMadhushan)
 
 ---
