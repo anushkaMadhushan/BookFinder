@@ -20,7 +20,7 @@
 ### **Steps to Run Locally**
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/book-finder.git
+   git clone https://github.com/anushkaMadhushan/BookFinder.git
    cd book-finder
    ```
 
@@ -73,7 +73,7 @@
 For any questions or feedback, feel free to reach out:
 - **Name**: Anushka Madhushan
 - **Email**: 
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **GitHub**: [Your GitHub Profile](https://github.com/anushkaMadhushan)
 
 ---
 
